@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : "DOIT on night long"  # The title of the book. Will be placed in the left navbar.
+title                       : "DOIT one night long"  # The title of the book. Will be placed in the left navbar.
 author                      : Uwe Schulze, # The author of the book
 copyright                   : "2025"  # Copyright year to be placed in the footer
 logo                        : "static/logo.png"  # A path to the book logo
